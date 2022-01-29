@@ -1,0 +1,15 @@
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\bin\Debug\net6.0\Skillbox_CSharp_DZ_Array.exe
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\bin\Debug\net6.0\Skillbox_CSharp_DZ_Array.deps.json
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\bin\Debug\net6.0\Skillbox_CSharp_DZ_Array.runtimeconfig.json
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\bin\Debug\net6.0\Skillbox_CSharp_DZ_Array.dll
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\bin\Debug\net6.0\ref\Skillbox_CSharp_DZ_Array.dll
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\bin\Debug\net6.0\Skillbox_CSharp_DZ_Array.pdb
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.AssemblyInfoInputs.cache
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.AssemblyInfo.cs
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.dll
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\ref\Skillbox_CSharp_DZ_Array.dll
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.pdb
+C:\Users\Den\source\repos\Skillbox_CSharp_DZ_Array\Skillbox_CSharp_DZ_Array\obj\Debug\net6.0\Skillbox_CSharp_DZ_Array.genruntimeconfig.cache
