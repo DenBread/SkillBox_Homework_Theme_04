@@ -17,21 +17,26 @@ namespace Skillbox_CSharp_DZ_Array
             int gameNumber = random.Next(randomNamber);
 
             int inputNumber = 0;
-            bool trueNumber = false;
+            bool trueNumber = false; // Проверка числа на преобразование в число
+            bool guessNumber = false;
             Console.WriteLine("Число сгенерирована! Попробуйте угадать...");
 
-            while (!trueNumber)
+            while (!guessNumber)
             {
                 Console.Write("Введите число: ");
-                inputNumber = int.Parse(Console.ReadLine());
+                trueNumber = int.TryParse(Console.ReadLine(), out inputNumber);
 
                 if (inputNumber > gameNumber) Console.WriteLine("Вы ввели большое число");
                 if (inputNumber < gameNumber) Console.WriteLine("Вы ввесли маленькое число");
-                if (inputNumber.ToString() == "") break;
+                if (!trueNumber)
+                {
+                    Console.WriteLine("Вы остановили игру. Загаданное число: " + gameNumber);
+                    break;
+                }
                 if (inputNumber == gameNumber)
                 {
                     Console.WriteLine("Вы угадали!");
-                    trueNumber = true;
+                    guessNumber = true;
                 }
             }
         }

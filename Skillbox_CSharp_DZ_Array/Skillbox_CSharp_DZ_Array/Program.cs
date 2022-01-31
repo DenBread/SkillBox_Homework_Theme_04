@@ -41,7 +41,21 @@ namespace Skillbox_CSharp_DZ_Array
                         break;
                 }
 
+                Console.WriteLine();
+                Console.WriteLine("Хотите повторить игру? Нажмите на любую клавишу, либо нажмите на N - чтобы выйти в список игр");
+                char letter = Console.ReadKey().KeyChar;
+                Console.Clear();
 
+                if (char.ToUpper(letter) == 'N' || char.ToUpper(letter) == 'Т')
+                {
+                    Console.WriteLine("Список игр:");
+                    Console.WriteLine(" 1) Случайная матрица");
+                    Console.WriteLine(" 2) Наименьший элемент в последовательности");
+                    Console.WriteLine(" 3) Игра «Угадай число»");
+
+                    Console.Write("\nВаш выбор игры: ");
+                    choiceNumber = int.Parse(Console.ReadLine());
+                }
                 
             }
         }
